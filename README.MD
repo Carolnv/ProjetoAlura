@@ -1,4 +1,4 @@
-# Site acessível sobre Maneskin
+# Site acessível sobre a banda Maneskin
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
