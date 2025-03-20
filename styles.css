@@ -8,15 +8,12 @@
 }
 
 :root {
-    --colorbody:#d3cbbb;
-    --blue:#00acf0;
-    --blue2:#35b7eb;
     --blue3:#2e91b8;
-    --colorbody2:#c2bcb1;
+    --white:#c2bcb1;
     --red1:#d30c37;
     --red2:#a50a2c;
     --red3: #810721;
-    --yellow: #f3b42d;
+
 
 }
 
@@ -153,7 +150,7 @@ h2 {
 }
 
 .formulario {
-    background-color: var(--colorbody2);
+    background-color: var(--white);
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
